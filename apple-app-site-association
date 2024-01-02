@@ -1,0 +1,12 @@
+{
+    "applinks":{
+        "details": [
+            {
+                "appID":"E5R2JZ6U5K.world.tally.IOSCompanionApp",
+                "components": [{
+                    "?": "InvokeCompanion"  
+                }]
+            }
+        ]
+    }
+}

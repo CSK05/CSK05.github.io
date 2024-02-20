@@ -1,7 +1,7 @@
 {
     "applinks": {
         "details": [{
-            "appIDs": ["E5R2JZ6U5K.world.tally.appIOSQtLaunchUsingLinks"],
+            "appIDs": ["E5R2JZ6U5K.world.tally.IOSCompanionApp"],
             "components": [{
                 "comment": "Match any url"
             }]

@@ -1,7 +1,7 @@
 {
     "applinks": {
         "details": [{
-            "appIDs":["E5R2JZ6U5K.world.tally.TWTallySCPNative","E5R2JZ6U5K.world.tally.TWTallySCPQt","E5R2JZ6U5K.world.tally.WatchOSLaunchByLink.watchkitapp","E5R2JZ6U5K.world.tally.WatchOSSwiftExtensions.watchkitapp"],
+            "appIDs":["E5R2JZ6U5K.world.tally.TWTallyNative","E5R2JZ6U5K.world.tally.WatchOSLaunchByLink.watchkitapp","E5R2JZ6U5K.world.tally.WatchOSSwiftExtensions.watchkitapp"],
             "components": [{
                 "comment": "Match any URL (for now)"
             }]
